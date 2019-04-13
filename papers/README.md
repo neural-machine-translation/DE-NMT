@@ -10,6 +10,8 @@ index | Title | Source | Notes/Code |
 6 | *Effective Approaches to Attention-based Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Effective-Approaches-to-Attention-based-Neural-Machine-Translation.pdf) | [Code1/](https://github.com/lmthang/nmt.hybrid)[Code2](https://github.com/dillonalaird/Attention) |
 7 | *Asynchronous Bidirectional Decoding for Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Asynchronous-Bidirectional-Decoding-for-Neural-Machine-Translation.pdf) | [Code](https://github.com/DeepLearnXMU/ABD-NMT) |
 8 | *Convolutional Sequence to Sequence Learning* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Convolutional-Sequence-to-Sequence-Learning.pdf) | [Code1/](https://github.com/facebookresearch/fairseq)[Code2](https://github.com/pytorch/fairseq) |
+9 | *Evaluating Discourse Phenomena in Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Evaluating-Discourse-Phenomena-in-Neural-Machine-Translation.pdf) | [Ground AI](https://www.groundai.com/project/evaluating-discourse-phenomena-in-neural-machine-translation/) |
+
 
 
 
@@ -17,7 +19,6 @@ index | Title | Source | Notes/Code |
 # Paper Reading Todo List
 
 * Jörg Tiedemann, and Yves Scherrer. 2017. [Neural Machine Translation with Extended Context](http://www.aclweb.org/anthology/W17-4811). In *Proceedings of the Third Workshop on Discourse in Machine Translation*. ([Citation](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=16950693252825831302): 12)
-* Rachel Bawden, Rico Sennrich, Alexandra Birch, and Barry Haddow. 2018. [Evaluating Discourse Phenomena in Neural Machine Translation](http://aclweb.org/anthology/N18-1118). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=1436848483757205177&as_sdt=2005&sciodt=0,5&hl=en): 11)
 * Elena Voita, Pavel Serdyukov, Rico Sennrich, and Ivan Titov. 2018. [Context-Aware Neural Machine Translation Learns Anaphora Resolution](http://aclweb.org/anthology/P18-1117). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=16594777811418303416&as_sdt=2005&sciodt=0,5&hl=en): 7)
 * Sameen Maruf and Gholamreza Haffari. 2018. [Document Context Neural Machine Translation with Memory Networks](http://aclweb.org/anthology/P18-1118). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=17337605639464710308&as_sdt=2005&sciodt=0,5&hl=en): 5)
 * Shaohui Kuang, Deyi Xiong, Weihua Luo, Guodong Zhou. 2018. [Modeling Coherence for Neural Machine Translation with Dynamic and Topic Caches](http://aclweb.org/anthology/C18-1050). In *Proceedings of COLING 2018*. ([Citation](https://scholar.google.com/scholar?cites=12991114209233735355&as_sdt=2005&sciodt=0,5&hl=en): 1)
