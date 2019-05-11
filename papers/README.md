@@ -11,6 +11,10 @@ index | Title | Source | Notes/Code |
 7 | *Asynchronous Bidirectional Decoding for Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Asynchronous-Bidirectional-Decoding-for-Neural-Machine-Translation.pdf) | [Code](https://github.com/DeepLearnXMU/ABD-NMT) |
 8 | *Convolutional Sequence to Sequence Learning* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Convolutional-Sequence-to-Sequence-Learning.pdf) | [Code1/](https://github.com/facebookresearch/fairseq)[Code2](https://github.com/pytorch/fairseq) |
 9 | *Evaluating Discourse Phenomena in Neural Machine Translation* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Evaluating-Discourse-Phenomena-in-Neural-Machine-Translation.pdf) | [Ground AI](https://www.groundai.com/project/evaluating-discourse-phenomena-in-neural-machine-translation/) |
+10 | *Topic Segmentation of Dialogue* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/Topic-Segmentation-of-Dialogue.pdf) | [Research Gate](https://www.researchgate.net/publication/228770668_Topic_segmentation_of_dialogue) |
+11 | *SECTOR: A Neural Model for Coherent Topic Segmentation and Classification* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/SECTOR-A-Neural-Model-for-Coherent-Topic-Segmentation.pdf) | [Code/](https://github.com/sebastianarnold/SECTOR)[Dataset](https://github.com/sebastianarnold/WikiSection) |
+12 | *SEGBOT: A Generic Neural Text Segmentation Model with Pointer Network* | [source](https://github.com/Eurus-Holmes/Research_Papers/blob/master/papers/SEGBOT-A-Generic-Neural-Text-Segmentation-Model-with-Pointer-Network.pdf) | [Demo](http://138.197.118.157:8000/segbot/) |
+
 
 
 
