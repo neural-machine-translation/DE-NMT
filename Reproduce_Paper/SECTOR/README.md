@@ -1,6 +1,6 @@
 # SECTOR: A Neural Model for Coherent Topic Segmentation and Classification
 
-cite
+### Cite
 ```
 @article{arnold2019sector,
   author = {Arnold, Sebastian and Schneider, Rudolf and Cudré-Mauroux, Philippe and Gers, Felix A. and Löser, Alexander},
